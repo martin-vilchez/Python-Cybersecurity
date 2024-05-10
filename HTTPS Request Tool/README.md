@@ -30,7 +30,7 @@ This repository contains a Python script designed to teach the fundamentals of c
 The script can be run from the command line with the following syntax:
 
 ```
-python https-getl.py <url> [options]
+python3 https-getl.py <url> [options]
 ```
 
 **Arguments:**
@@ -44,7 +44,7 @@ python https-getl.py <url> [options]
 **Example:**
 
 ```
-python https_request_tool.py https://example.com -H "User-Agent: MyUserAgent" -C "sessionid=1234567890" -x "http://myproxy:8080" -a "username:password"
+python https-get.py https://example.com -H "User-Agent: MyUserAgent" -C "sessionid=1234567890" -x "http://myproxy:8080" -a "username:password"
 ```
 
 This command sends a GET request to `https://example.com` with a custom User-Agent header, a custom sessionid cookie, a proxy, and authentication credentials.
