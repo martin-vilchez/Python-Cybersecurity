@@ -66,4 +66,4 @@ if __name__ == "__main__":
         scan_ports(target, start_port, end_port)
     else:
         # If the user didn't provide the correct arguments, print an error message
-        print("Invalid arguments \n Syntax: python3 scanner.py <ip> <start_port> <end_port>")
+        print("Invalid arguments \n Syntax: python3 port-scanner.py <ip> <start_port> <end_port>")
