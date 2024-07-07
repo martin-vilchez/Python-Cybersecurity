@@ -46,5 +46,3 @@ This repository contains a Python script designed to automate form submission on
 * Learn about advanced web scraping techniques with libraries like Selenium.
 
 **Happy Learning!**
-
-This READEME provides a comprehensive overview of the Python form submission script and its educational value within a cybersecurity and Python fundamentals course. Feel free to modify this template as needed for your specific case.
