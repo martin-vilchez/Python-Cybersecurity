@@ -22,7 +22,7 @@ This repository contains a Python script designed to automate form submission on
     * Python 3 (download from [https://www.python.org/downloads/](https://www.python.org/downloads/))
     * pip (package installer for Python) - usually comes bundled with Python
 2. **Installation:**
-    * Clone this repository: `git clone [https://github.com/martin-vilchez/Python-Cybersecurity.git]`
+    * Clone this repository: `git clone https://github.com/martin-vilchez/Python-Cybersecurity.git`
     * Navigate to the project directory: `cd Scraping-&-attacking-web-forms`
     * Install required libraries: `pip install requests beautifulsoup4`
 3. **Usage:**
